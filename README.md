@@ -1,5 +1,7 @@
 # Database-Menu
+
 Lab 2
+
 Written by Joshua Hoashin     hoash003@umn.edu
 
 Program description paragraph:
