@@ -54,4 +54,5 @@ Testing Critieria
 
 Invalid inputs are in the main menu if you choosea a number that is not between 1-7 it willl tell you error.
 In add records there are invalid data inputs on three of the prompt and if wrong data is entered it will display a message.
+
 Caution: The program will save the wrong data as a record, so you must delete that wrong input record manually by using delete option on the menu.
