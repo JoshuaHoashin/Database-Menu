@@ -1,0 +1,261 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20250305135751
+Username: TABLET-JSA6LVPC\joshu
+RunAs User: TABLET-JSA6LVPC\joshu
+Configuration Name: 
+Machine: TABLET-JSA6LVPC (Microsoft Windows NT 10.0.26100.0)
+Host Application: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 22176
+PSVersion: 5.1.26100.2161
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.2161
+BuildVersion: 10.0.26100.2161
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is .\Project2.txt
+PS C:\Users\joshu\OneDrive\Interviews\C file> .\Lab2.exe myDatabase
+
+Menu for your Database
+1. Print all records
+2. Add record
+3. Delete the record
+4. Print number of records
+5. Print database size
+6. Print number of changes
+7. Exit
+Please enter your selection >
+ 1
+
+Printing all records
+Record 1
+Part number: 394892948
+Part name: Poly pipe
+Part size: 23.75
+Part size metric: mm
+Part cost: 8.83
+
+Record 2
+Part number: 123456789
+Part name: Aluminum tube
+Part size: 45.00
+Part size metric: mm
+Part cost: 15.20
+
+Record 3
+Part number: 987654321
+Part name: Steel rod
+Part size: 12.50
+Part size metric: cm
+Part cost: 10.50
+
+Record 4
+Part number: 112233445
+Part name: Copper wire
+Part size: 5.25
+Part size metric: mm
+Part cost: 2.75
+
+Record 5
+Part number: 556677889
+Part name: PVC pipe
+Part size: 30.00
+Part size metric: mm
+Part cost: 9.99
+
+
+Menu for your Database
+1. Print all records
+2. Add record
+3. Delete the record
+4. Print number of records
+5. Print database size
+6. Print number of changes
+7. Exit
+Please enter your selection >
+ 2
+
+
+Insert the data for each element of for the part:
+Enter the part number: 123456
+Enter the part name: PVC pipe
+Enter the part size: 12.5
+Enter the part size metric(e.g. lbs ): lbs
+Enter the part cost: 12
+
+You are viewing the New Record:
+Part number= 123456
+Part name= PVC pipe
+Part size= 12.50
+Part size metric= lbs
+Part cost= 12.00
+1 modification have been made so far
+
+Menu for your Database
+1. Print all records
+2. Add record
+3. Delete the record
+4. Print number of records
+5. Print database size
+6. Print number of changes
+7. Exit
+Please enter your selection >
+ 4
+
+here is the number of records in this database: 6
+
+Menu for your Database
+1. Print all records
+2. Add record
+3. Delete the record
+4. Print number of records
+5. Print database size
+6. Print number of changes
+7. Exit
+Please enter your selection >
+ 5
+
+The size of the database is: 312 bytes
+
+Menu for your Database
+1. Print all records
+2. Add record
+3. Delete the record
+4. Print number of records
+5. Print database size
+6. Print number of changes
+7. Exit
+Please enter your selection >
+ 6
+
+Here are the number of changes that occured
+You have modified the database 1 times
+
+Menu for your Database
+1. Print all records
+2. Add record
+3. Delete the record
+4. Print number of records
+5. Print database size
+6. Print number of changes
+7. Exit
+Please enter your selection >
+ 3
+
+Last record deleted successfully!
+2 modification have been made so far
+
+Menu for your Database
+1. Print all records
+2. Add record
+3. Delete the record
+4. Print number of records
+5. Print database size
+6. Print number of changes
+7. Exit
+Please enter your selection >
+ 4
+
+here is the number of records in this database: 5
+
+Menu for your Database
+1. Print all records
+2. Add record
+3. Delete the record
+4. Print number of records
+5. Print database size
+6. Print number of changes
+7. Exit
+Please enter your selection >
+ 8
+
+Invalid selection. Please choose a number between 1 and 7.
+
+Menu for your Database
+1. Print all records
+2. Add record
+3. Delete the record
+4. Print number of records
+5. Print database size
+6. Print number of changes
+7. Exit
+Please enter your selection >
+ 2
+
+
+Insert the data for each element of for the part:
+Enter the part number: wrong user input
+Invalid input for part number.
+Enter the part name: Enter the part size: not a number
+Invalid input for part size.
+Enter the part size metric(e.g. lbs ): Enter the part cost: not a vaild cost
+Invalid input for part cost.
+
+You are viewing the New Record:
+Part number= 0
+Part name= rong user input
+Part size= 0.00
+Part size metric= t a number
+Part cost= 0.00
+3 modification have been made so far
+
+Menu for your Database
+1. Print all records
+2. Add record
+3. Delete the record
+4. Print number of records
+5. Print database size
+6. Print number of changes
+7. Exit
+Please enter your selection >
+ 4
+
+here is the number of records in this database: 6
+
+Menu for your Database
+1. Print all records
+2. Add record
+3. Delete the record
+4. Print number of records
+5. Print database size
+6. Print number of changes
+7. Exit
+Please enter your selection >
+ 3
+
+Last record deleted successfully!
+4 modification have been made so far
+
+Menu for your Database
+1. Print all records
+2. Add record
+3. Delete the record
+4. Print number of records
+5. Print database size
+6. Print number of changes
+7. Exit
+Please enter your selection >
+ 4
+
+here is the number of records in this database: 5
+
+Menu for your Database
+1. Print all records
+2. Add record
+3. Delete the record
+4. Print number of records
+5. Print database size
+6. Print number of changes
+7. Exit
+Please enter your selection >
+ 7
+
+Exiting program...
+PS C:\Users\joshu\OneDrive\Interviews\C file> Stop-Transcript
+**********************
+Windows PowerShell transcript end
+End time: 20250305140223
+**********************
