@@ -36,8 +36,11 @@ I also have a read.txt that explain the myLab2.
 I also have a project2.txt that has a transcription of the code output.
 
 #include <stdio> : was used as it was necessary to run the files.
+
 #include <stdbool.h>: this was used so i could use the boolean for the prinNumChanges function.
+
 #include <stdlib.h>: was need for the exit feature of this program.
+
 #include < string.h> this allowed for the string maniupaltion of strcpy(), strcmp()
 
 
